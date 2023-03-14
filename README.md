@@ -6,12 +6,12 @@ This project aims to estimate the Gaussian distribution parameters of a species'
 Getting Started
 To run the analysis, you will need to install Python 3 and the following libraries:
 
-pandas. 
-numpy. 
-scipy. 
-matplotlib. 
-pymc3. 
-scipy. 
+- pandas
+- numpy
+- scipy
+- matplotlib
+- pymc3
+- scipy
 
 You can install these libraries by running the following command in your terminal:
 
