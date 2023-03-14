@@ -15,7 +15,7 @@ scipy
 
 You can install these libraries by running the following command in your terminal:
 
-`pip install pandas numpy scipy matplotlib pymc3 scipy```
+`pip install pandas numpy scipy matplotlib pymc3 scipy`
 
 After installing the required libraries, you can run the jupyternotebook file to perform the analysis. 
 
